@@ -1,0 +1,7 @@
+body{background-color: aqua;}
+h1 {
+    color: white;
+    border:2px solid black;
+    padding-bottom: 8px;
+    display: flex;justify-content:center ;
+}
